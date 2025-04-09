@@ -26,7 +26,7 @@
 </p>
 
 
-![Oops Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fprinterval.com%2Fturning-coffee-into-code-funny-programming-jokes-light-color-p41103196&psig=AOvVaw01E9U8GKCLzt16dKOkAjpK&ust=1744276366001000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjW7YfOyowDFQAAAAAdAAAAABBz)
+![Oops Image](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/programmer-turn-coffee-into-code-eq-designs.jpg)
 <p>To be Precise, Nicotine and Caffine</p>
 
 ---
