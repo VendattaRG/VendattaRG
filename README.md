@@ -5,6 +5,7 @@
   <li><b>📜 Blog: </b <a href="https://fahadmurtaza.me/blog" target="_blank">https://fahadmurtaza.me/blog</a></li>
   <li><b>🚀 Discord: </b> <a href="#" target="_blank">Xerop70int</a></li>
   <li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/muhammad-fahad-murtaza-8533b421a/" target="_blank">https://www.linkedin.com/in/muhammad-fahad-murtaza/</a></li>
+  <li><b>📩 Email: </b> <a href="mailto:fahadmurtaza021@gmail.com" target="_blank">fahadmurtaza021@gmail.com</a></li>
 </ul>
 
 # 💻 Tech Stack:
