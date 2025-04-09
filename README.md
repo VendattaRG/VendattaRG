@@ -1,7 +1,11 @@
 <h2 align="center"> 👋 Hi, its <b>Fahad Murtaza</b> (<a href="//fahadmurtaza.me">fahadmurtaza.me</a>) </h2> 
 
-
-
+<ul>
+  <li><b>🌍 Website: </b <a href="https://fahadmurtaza.me" target="_blank">https://fahadmurtaza.me</a></li>
+  <li><b>📜 Blog: </b <a href="https://fahadmurtaza.me/blog" target="_blank">https://fahadmurtaza.me/blog</a></li>
+  <li><b>🚀 Discord: </b> <a href="#" target="_blank">Xerop70int#5786</a></li>
+  <li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/muhammad-fahad-murtaza-8533b421a/" target="_blank">https://www.linkedin.com/in/muhammad-fahad-murtaza/</a></li>
+</ul>
 
 # 💻 Tech Stack:
 
