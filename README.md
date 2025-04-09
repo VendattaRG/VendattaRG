@@ -26,7 +26,8 @@
 </p>
 
 
-![Oops Image](https://miro.medium.com/max/700/1*KcQUEkOQ1LoMDHkMZ-Yymw.jpeg)
+![https://miro.medium.com/max/700/1*KcQUEkOQ1LoMDHkMZ-Yymw.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fprinterval.com%2Fturning-coffee-into-code-funny-programming-jokes-light-color-p41103196&psig=AOvVaw01E9U8GKCLzt16dKOkAjpK&ust=1744276366001000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjW7YfOyowDFQAAAAAdAAAAABBz)
+<p>To be Precise, Nicotine and Caffine</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Xerop79int&icon=0&color=0)](https://visitcount.itsvg.in)
